@@ -1,3 +1,2 @@
-
-print("Hello")
+print("Hello Gosia")
 # TODO Lazy
