@@ -6,7 +6,7 @@ print("Wybierz działanie; 1. dodawanie 2. odejmowanie 3. mnożenie 4. dzielenie
 if int(input()) == 1:
     print("podaj pierwszą liczbę:")
     a = int(input())
-    print("podaj drugą liczbę:")
+    print("podaj drugą liczbę:")  # dodawanie działa, potem są błędy
     b = int(input())
     c = a + b
     print(c)
